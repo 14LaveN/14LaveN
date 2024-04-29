@@ -1,16 +1,18 @@
-### Hi there 👋
+I'm Alexander, a Asp Net Core developer 👨‍💻
 
-<!--
-**14LaveN/14LaveN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌱 I’m currently learning SignalR
 
-Here are some ideas to get you started:
+⚡ Fun fact: I am a student at school and an investor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My Skill Set: 
+• .NET
+• JavaScipt, HTML, CSS
+• React 
+• ASP.NET Core
+• C++ 
+• UnrealEngine
+• Python
+
+I know many programming languages ​​and technologies for working with them, but the main one is C# with its ASP.NET Core technology.
+
+I can work with technologies such as MediatR, EntityFramework Core, IdentityServer4, Dapper, Prometheus + Grafana, ELK stack, Google Firebase, RabbitMQ, MongoDb, PostgreSQL, MSSQL QuartZ, JSON serializers, ElasticSearch for searching, Serilog, NLog, Docker with Docker compose, Kubernetes, Redis, xUnit + Moq + FluentAssertions + TestContainers + AutoFixture + Bogus, LINQ, SignalR, GraphQL, gRPC.
