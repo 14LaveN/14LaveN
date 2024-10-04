@@ -1,18 +1,67 @@
-I'm Alexander, a Asp Net Core developer 👨‍💻
+<h1>Alexander 👨‍💻</h1>
+<h2>ASP.NET Core Developer</h2>
 
-🌱 I’m currently learning SignalR
+<h3>🌱 Current Learning</h3>
+<p>SignalR</p>
 
-⚡ Fun fact: I am a student at school and an investor.
+<h3>⚡ Fun Fact</h3>
+<p>I am a student at school and an investor.</p>
 
-My Skill Set: 
-• .NET
-• JavaScipt, HTML, CSS
-• React 
-• ASP.NET Core
-• C++ 
-• UnrealEngine
-• Python
+<h3>Skill Set</h3>
+    <h4>Languages & Technologies:</h4>
+    <ul>
+        <li>C# (ASP.NET Core)</li>
+        <li>JavaScript, HTML, CSS</li>
+        <li>C++, Python</li>
+        <li>React</li>
+        <li>Unreal Engine</li>
+    </ul>
 
-I know many programming languages ​​and technologies for working with them, but the main one is C# with its ASP.NET Core technology.
+<h4>Frameworks & Tools:</h4>
+<ul>
+        <li>MediatR</li>
+        <li>Entity Framework Core</li>
+        <li>IdentityServer4</li>
+        <li>Dapper</li>
+        <li>Docker & Docker Compose</li>
+        <li>Kubernetes</li>
+</ul>
 
-I can work with technologies such as MediatR, EntityFramework Core, IdentityServer4, Dapper, Prometheus + Grafana, ELK stack, Google Firebase, RabbitMQ, MongoDb, PostgreSQL, MSSQL QuartZ, JSON serializers, ElasticSearch for searching, Serilog, NLog, Docker with Docker compose, Kubernetes, Redis, xUnit + Moq + FluentAssertions + TestContainers + AutoFixture + Bogus, LINQ, SignalR, GraphQL, gRPC.
+<h4>Databases:</h4>
+<ul>
+        <li>MongoDB</li>
+        <li>PostgreSQL</li>
+        <li>MSSQL</li>
+</ul>
+
+<h4>Messaging & Caching:</h4>
+<ul>
+        <li>RabbitMQ</li>
+        <li>Redis</li>
+</ul>
+
+<h4>Monitoring & Logging:</h4>
+<ul>
+        <li>Prometheus & Grafana</li>
+        <li>ELK Stack</li>
+        <li>Serilog, NLog</li>
+</ul>
+
+<h4>Testing & CI/CD:</h4>
+<ul>
+        <li>xUnit, Moq, FluentAssertions</li>
+        <li>TestContainers, AutoFixture, Bogus</li>
+</ul>
+
+<h4>Web Services:</h4>
+<ul>
+        <li>GraphQL, gRPC</li>
+        <li>SignalR</li>
+</ul>
+
+<h3>Contact</h3>
+<p class="contact">
+        <a href="your-linkedin-url">LinkedIn</a><br>
+        <a href="mailto:your-email@example.com">Email</a><br>
+        <a href="your-portfolio-url">Portfolio</a>
+</p>
