@@ -1,67 +1,47 @@
-<h1>Alexander 👨‍💻</h1>
-<h2>ASP.NET Core Developer</h2>
+### Hi there, I'm Alexander Ponomareff! 👋 <div align='right'>![](https://komarev.com/ghpvc/?username=lavensblog&color=blue)</div>
 
-<h3>🌱 Current Learning</h3>
-<p>SignalR</p>
+[![Website URL](https://img.shields.io/badge/website-Check_it_out-yellow?logo=.net&style=for-the-badge)](https://lavensblog.ru)
 
-<h3>⚡ Fun Fact</h3>
-<p>I am a student at school and an investor.</p>
+[![YouTube URL](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/c/AlexanderPonomareff)
 
-<h3>Skill Set</h3>
-    <h4>Languages & Technologies:</h4>
-    <ul>
-        <li>C# (ASP.NET Core)</li>
-        <li>JavaScript, HTML, CSS</li>
-        <li>C++, Python</li>
-        <li>React</li>
-        <li>Unreal Engine</li>
-    </ul>
+[![HH.ru URL](https://img.shields.io/badge/HH.ru-View_Profile-orange?logo=headhunter&style=for-the-badge)](https://hh.ru)
 
-<h4>Frameworks & Tools:</h4>
-<ul>
-        <li>MediatR</li>
-        <li>Entity Framework Core</li>
-        <li>IdentityServer4</li>
-        <li>Dapper</li>
-        <li>Docker & Docker Compose</li>
-        <li>Kubernetes</li>
-</ul>
+## **I'm a Software Developer specialized in ASP.NET Core and Blazor.**
 
-<h4>Databases:</h4>
-<ul>
-        <li>MongoDB</li>
-        <li>PostgreSQL</li>
-        <li>MSSQL</li>
-</ul>
+- 🎯 **I’m currently working on**: Building a high-performance microservices architecture with ASP.NET Core and Blazor for Ponomareff.eShop
+- 💬 **Ask me about**: .NET, ASP.NET Core, Microservices, CI/CD, SignalR, and Clean Architecture
+- 📫 **How to reach me**: Connect with me on LinkedIn! 👆
 
-<h4>Messaging & Caching:</h4>
-<ul>
-        <li>RabbitMQ</li>
-        <li>Redis</li>
-</ul>
+**Here’s how I can help you:**:
 
-<h4>Monitoring & Logging:</h4>
-<ul>
-        <li>Prometheus & Grafana</li>
-        <li>ELK Stack</li>
-        <li>Serilog, NLog</li>
-</ul>
 
-<h4>Testing & CI/CD:</h4>
-<ul>
-        <li>xUnit, Moq, FluentAssertions</li>
-        <li>TestContainers, AutoFixture, Bogus</li>
-</ul>
+### **Skill Set**
 
-<h4>Web Services:</h4>
-<ul>
-        <li>GraphQL, gRPC</li>
-        <li>SignalR</li>
-</ul>
+#### **Languages & Technologies**
+- **C# (ASP.NET Core), JavaScript, HTML, CSS**
+- **C++, Python, React**
+- **Unreal Engine**
 
-<h3>Contact</h3>
-<p class="contact">
-        <a href="your-linkedin-url">LinkedIn</a><br>
-        <a href="mailto:your-email@example.com">Email</a><br>
-        <a href="your-portfolio-url">Portfolio</a>
-</p>
+#### **Frameworks & Tools**
+- **MediatR, Entity Framework Core, IdentityServer4, Dapper**
+- **Docker & Docker Compose, Kubernetes (K8s)**
+- **Jenkins, GitHub Actions**
+
+#### **Databases**
+- **MongoDB, PostgreSQL, MSSQL**
+
+#### **Messaging & Caching**
+- **RabbitMQ, Redis**
+
+#### **Monitoring & Logging**
+- **Prometheus & Grafana, ELK Stack, Serilog, NLog**
+
+#### **Testing & CI/CD**
+- **xUnit, Moq, FluentAssertions, TestContainers, AutoFixture, Bogus**
+
+#### **Web Services**
+- **GraphQL, gRPC, SignalR**
+
+<a href="https://github.com/m-jovanovic">
+  <img src="https://github-readme-stats.vercel.app/api?username=14laven&count_private=true&show_icons=true" />
+</a>
