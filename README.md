@@ -8,8 +8,8 @@
 
 ## **I'm a Software Developer specialized in ASP.NET Core and Blazor.**
 
-- 🎯 **I’m currently working on**: Building a high-performance microservices architecture with ASP.NET Core and Blazor for Ponomareff.eShop
-- 💬 **Ask me about**: .NET, ASP.NET Core, Microservices, CI/CD, SignalR, and Clean Architecture
+- 🎯 **I’m currently working on**: Building a high-performance microservices architecture with Golang, ASP.NET Core and Blazor for Ponomareff.eShop
+- 💬 **Ask me about**: Golang, ASP.NET Core, Microservices, CI/CD, SignalR, and Clean Architecture
 - 📫 **How to reach me**: Connect with me on LinkedIn! 👆
 
 **Here’s how I can help you:**:
